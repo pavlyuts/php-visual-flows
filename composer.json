@@ -1,0 +1,24 @@
+{
+    "name": "pavlyuts/visual-flows",
+    "description": "No-code/lowcode stateful flow engine for REST integrations with callback support",
+    "type": "library",
+    "license": "GPL-2.0-or-later",
+    "homepage":"https://github.com/pavlyuts/php-visual-flow",
+    "keywords": [ "nocode", "lowcode", "flow", "process", "visual", "rest" ],
+    "require": {
+        "psr/log": "^1.1",
+        "smarty/smarty": "~3.1"
+    },
+    "authors": [
+        {
+            "name": "Alexey Pavlyuts",
+            "email": "alexey@pavlyuts.ru",
+            "homepage": "https://pavlyuts.ru"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "VFlows\\": "lib/"
+        }
+    }
+}
