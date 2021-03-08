@@ -1,5 +1,5 @@
 # Work under progress
-# Low-code/nocode stateful flow-based engine for PHP vith visual editor
+# Low-code/nocode stateful flow-based engine for PHP with visual editor
 
 ## Purpose
 
