@@ -25,5 +25,6 @@ It is a good idea to fix the version you use. Don't use next version without rev
 
 ## Dependencies
 - psr/log: ^1.1
-- "smarty/smarty": "~3.1"
+- smarty/smarty: "~3.1"
 
+Also, PECL UUID PHP module required in the  configuration. 
